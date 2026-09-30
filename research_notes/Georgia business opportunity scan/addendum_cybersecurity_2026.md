@@ -18,3 +18,12 @@ Search-result extracts only.
 
 ## Inference
 Demand is regulatory (banks, ~100 PSPs/VASPs, critical-infrastructure list), supply thin, but the sellable unit is an accountable, authorised, ideally accredited human report, not tooling. AI commoditises scanning and bug bounties, not signed audits. For a developer: 6-12 months to credibility (PortSwigger Academy, BSCP/OSCP), code review/API testing as the entry edge, written authorisation always. Same customer base as the compliance-tooling idea. A one-year specialisation, not quick income.
+
+## Who sells penetration tests in Georgia (added same day)
+- Local specialists: Giraffe (Estonian-owned; pentest, code review, VA, monitoring) — [giraffe.ge](https://giraffe.ge/); GeoCyberGroup (pentest, VA, GRC, GDPR) — [geocybergroup.com](https://www.geocybergroup.com/); Cyber Security Group LLC (Magalashvili St 8, Tbilisi) — [cybsecgroup.com](https://cybsecgroup.com/en/penetration-test); Scientific Cyber Security Association (OSCP/AWS/Cisco/Fortinet-certified team) — [scsa.ge](https://scsa.ge/en/)
+- Integrators with security lines: UGT, Alta, ITDC — [UGT](https://ugt.ge/en), [EUGBC](https://eugbc.net/communications/)
+- Big Four: KPMG Georgia IT risk practice (ISMS/ISO 27001 audits) — [KPMG ITRM brochure](https://assets.kpmg.com/content/dam/kpmg/ge/pdf/2024/ITRM-Workshop-Brochure-KPMG-Georgia-Academy-und.pdf)
+- State: Digital Governance Agency conducts audits/pentests of critical systems and maintains the register of authorised organisations, auditors and pentest professionals (CISA-linked) — [DGA](https://dga.gov.ge/?m=articles&id=JMhOX2i6la), [IO Consulting DGA authorisation](https://ioconsulting.ge/dga/)
+- Bank tenders: ProCredit Bank tender for perimeter pentest + APT simulation, deadline 12 Sep 2024 — [ProCredit](https://procreditbank.ge/en/tender/tender-purchasing-penetration-testing-service-1); NBG had itself performed bank pentests and paused pending the cybersecurity law (World Bank FSAP) — [FSAP](https://documents1.worldbank.org/curated/en/099840003012220978/pdf/P175014029297107b08e920ba260ea108d4.pdf)
+- Freelancers: ~6 pentesters near Tbilisi on Upwork — [Upwork](https://www.upwork.com/hire/penetration-testers/ge/tbilisi/)
+- Gaps: DGA register contents, techbehemoths list, ProCredit tender requirements (pages blocked).
