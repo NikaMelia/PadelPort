@@ -1,4 +1,4 @@
-# Web security to OSCP: a 12 to 14 month study plan
+# Web security to OSCP: a 13 to 15 month study plan
 
 Written 30 Sep 2026, revised the same day for a self-taught developer who builds and deploys web apps but has never had the fundamentals checked, studying about 15 hours a week alongside paid work. Costs in USD. Dates assume a start on 6 Oct 2026; shift everything if you start later.
 
@@ -7,11 +7,11 @@ Written 30 Sep 2026, revised the same day for a self-taught developer who builds
 - **Only ever test what you are authorised to test.** Training platforms, your own machines, and clients who signed a scope. Nothing else, ever. Unauthorised access is a criminal offence in Georgia.
 - **Rhythm:** three weekday evenings of 2 hours plus one weekend block of 6 to 8 hours. Protect the weekend block; it is where labs actually get finished.
 - **Notes from day one.** Keep a personal wiki (Obsidian or similar) with one page per technique: what it is, how to find it, how to exploit it, how to fix it, and the exact commands. This becomes your exam cheat sheet and, later, your report templates.
-- **Three decision gates.** Week 4, week 9 and week 17. If you are not enjoying it at a gate, stop. The plan is designed so stopping early costs almost nothing.
+- **Three decision gates.** Week 8, week 13 and week 21 (after the four-week shift noted in Phase A). If you are not enjoying it at a gate, stop. The plan is designed so stopping early costs almost nothing.
 
-## Phase A: gap check and gap fill (weeks 1 to 4, cost 0 to 15)
+## Phase A: gap check and gap fill (weeks 1 to 8 as graded, cost 0 to 35)
 
-For a self-taught developer who already builds and deploys web apps, this phase is a diagnostic, not a course. Week 1 is a self-test. Weeks 2 to 4 are spent only on the rows you failed. Most people fail two or three rows; if you fail none, skip straight to Phase 0.
+The self-test was taken on 30 Sep 2026 and showed gaps in 8 or 9 of the 12 rows (Linux, networking, TLS, Windows, CSRF and SameSite, sessions, SQL injection, deployment unanswered, plus three rows not attempted). So this phase runs the full eight weeks. The day-by-day version is in `reports/Gap fill plan.md`; the table below is kept as the checklist to retest against in week 8.
 
 ### Week 1: the self-test
 
@@ -36,7 +36,7 @@ Do each task without looking anything up. Be honest; nobody is watching. A row i
 
 Take the rows you failed, in the order they appear, and work through the resources in the right-hand column. Budget about a week per two rows. Keep the same notes wiki from day one: one page per topic, in your own words.
 
-**Gate A (end of week 4).** Every row now passes. If more than four rows failed in week 1 and you have not closed them by week 4, take two more weeks; do not start security labs on shaky HTTP, Linux or auth knowledge, because every later lab assumes them.
+**Gate A (end of week 8).** Every row passes from memory on a retest. Do not start security labs on shaky HTTP, Linux or auth knowledge, because every later lab assumes them. All later phase weeks shift by four: Phase 0 is week 9, Phase 1 weeks 10 to 13, Phase 2 weeks 14 to 21, Phase 3 weeks 22 to 25, Phase 4 weeks 26 to 49, the exam around weeks 54 to 57.
 
 ## Phase 0: setup (week 5, one weekend, cost 0)
 
